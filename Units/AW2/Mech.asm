@@ -5,11 +5,11 @@
 	setUnitPrimaryName	Unit_Mech,2254
 	setUnitSecondaryName	Unit_Mech,2253
 	
-	setUnitPrice		Unit_Mech,300
-	setUnitMove		Unit_Mech,2
-	setUnitAmmo		Unit_Mech,3
+	setUnitPrice		Unit_Mech,1000
+	setUnitMove		Unit_Mech,6
+	setUnitAmmo		Unit_Mech,4
 	setUnitFuel		Unit_Mech,70
-	setUnitVision		Unit_Mech,2
+	setUnitVision		Unit_Mech,6
 
 	setUnitClass		Unit_Mech,ClassSoldier
 	setUnitMoveType		Unit_Mech,MoveMech
